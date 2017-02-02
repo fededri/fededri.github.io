@@ -89,6 +89,7 @@ section{
   height: auto;
   border-radius: 100%;
   border: 5px solid rgba(37,111,171, .7);
+  Margin-top:4em;
 }
 
 .imagenes div img{
