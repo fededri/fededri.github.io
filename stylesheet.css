@@ -12,6 +12,17 @@
 body{
   padding: 0 !important;
   margin: 0;
+  font-size:2.2em!important;
+}
+
+body,html,p,h1,h2,li{
+font-family:'Caption'!important;
+
+}
+
+@font-face{
+font-family:'Caption';
+src:url('Jura-Regular.ttf');
 }
 
 @font-face {
